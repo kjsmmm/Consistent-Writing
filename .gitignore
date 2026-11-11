@@ -1,0 +1,15 @@
+# Local editor and operating system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local configuration
+.env
+.env.*
+
+# Private working drafts and reference material
+开题报告_*.md
+anti-defensive-writing-SKILL.md
